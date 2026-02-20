@@ -11,6 +11,11 @@ It demonstrates configuring a Git repository using GitHub and Visual Studio Code
 
 ## Files Included
 - index.html
+- about.html
+- contact.html
+- notes.txt
+- script.js
+- style.css
 - README.md
 
 ## Git Commands Used
