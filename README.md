@@ -2,7 +2,7 @@
 
 ## Student Information
 Name: Jhoana Almonidovar  
-Course: (Your Course Name)  
+Course: Version Control & Collaboration  
 Instructor: Michael Lewis  
 
 ## Project Description
