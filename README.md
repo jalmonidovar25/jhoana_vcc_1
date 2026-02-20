@@ -16,6 +16,7 @@ It demonstrates configuring a Git repository using GitHub and Visual Studio Code
 - notes.txt
 - script.js
 - style.css
+- .gitignore
 - README.md
 
 ## Git Commands Used
