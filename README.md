@@ -1,34 +1,36 @@
-# Assignment 1: Configuring a Git Repository on GitHub
+# Happy Robots 🤖
 
-## Student Information
-Name: Jhoana Almonidovar  
-Course: Version Control & Collaboration  
-Instructor: Michael Lewis  
+## Project Overview
+Happy Robots is a fictional project about creating friendly robots designed to help people in everyday life. These robots are built to assist with tasks, provide companionship, and make daily routines easier and more enjoyable.
 
-## Project Description
-This repository was created as part of Assignment 1.  
-It demonstrates configuring a Git repository using GitHub and Visual Studio Code.
+## Description
+The goal of the Happy Robots project is to design robots that improve people's lives through helpful features and positive interaction. These robots can help with household tasks, reminders, learning, and entertainment.
 
-## Files Included
-- index.html
-- about.html
-- contact.html
-- notes.txt
-- script.js
-- style.css
-- .gitignore
-- README.md
+## Installation
+To install Happy Robots:
 
-## Git Commands Used
-- git init
-- git add .
-- git commit
-- git push
-- git remote -v
-- git log --oneline
-- 
+1. Download the Happy Robots software package.
+2. Connect your robot device.
+3. Follow the setup instructions on the robot control panel.
+4. Launch the Happy Robots control system.
+
+## Usage
+Happy Robots can be used for:
+
+- Daily reminders
+- Helping with small household tasks
+- Learning activities
+- Friendly interaction
+
+For licensing information please see the LICENSE file in this repository.
+
+## Contributing
+Contributions are welcome! Developers can submit improvements, new robot behaviors, or additional features through pull requests.
+
+## Credits
+Created by **Jhoana Almonidovar**  
+Version Control & Collaboration Course  
+2026
+
 ## License
-
 This project uses the MIT License.
-
-I chose the MIT License because it is a simple and permissive open-source license. It allows others to use, modify, and distribute my code freely while still giving me credit as the original author. It is widely used and easy to understand, which makes it a good choice for academic and collaborative projects.
